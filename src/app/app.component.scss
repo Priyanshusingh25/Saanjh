@@ -1,0 +1,17 @@
+*{
+    margin: 0% 0% 0% 0%;
+    padding: 0% 0% 0% 0%;
+    box-sizing: border-box;
+}
+
+.cloth-image-1 {
+    width: fit-content;
+    position: relative;
+    justify-content: space-around;
+
+    img {
+        width:100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
